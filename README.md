@@ -1,2 +1,2 @@
-# Engenharia-de-Sistemas-Embutidos-UFPE
-Repositório criado para compartilhar os experimentos da disciplina Engenharia de Sistemas Embutidos do Centro de Informática da Universidade Federal de Pernambuco.
+# Engenharia de Sistemas Embutidos
+Repositório criado para compartilhar experimentos, duvidas e ideias da disciplina [Engenharia de Sistemas Embutidos do Centro de Informática da Universidade Federal de Pernambuco] http://www.cin.ufpe.br/~svc/ese/.
